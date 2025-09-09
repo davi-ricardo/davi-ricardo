@@ -8,7 +8,7 @@
 
 | GitHub Stats | Linguagens Mais Usadas | Streak |
 |--------------|-------------------------|--------|
-| <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davi-ricardo&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/> | <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-ricardo&layout=compact&theme=radical"/> | <img height="150em" src="https://streak-stats.demolab.com/?user=davi-ricardo&theme=radical"/> |
+| <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davi-ricardo&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/> | <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-ricardo&layout=compact&theme=radical"/> | <img height="150em" src="https://streak-stats.demolab.com/?user=davi-ricardo"/> |
 
 </div>
 
