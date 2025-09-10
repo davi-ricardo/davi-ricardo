@@ -1,4 +1,4 @@
-## Olá, eu sou o Davi Ricardo
+## Olá, meu nome é Davi Ricardo
 - 💻 Hoje trabalho com suporte N1 e N2, também produzindo algumas automações.
 - 🧑‍💻 Fazendo bacharelado em Ciência da Computação
 
