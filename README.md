@@ -14,17 +14,6 @@
 
 </div>
 
----
-
-## 🐍 Jogo da Cobra
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/davi-ricardo/davi-ricardo/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/davi-ricardo/davi-ricardo/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/davi-ricardo/davi-ricardo/blob/output/github-snake.svg" />
-</picture>
-
----
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
