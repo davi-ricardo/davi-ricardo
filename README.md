@@ -14,6 +14,9 @@
 
 </div>
 
+<div align=center>
+<img src="https://raw.githubusercontent.com/davi-ricardo/davi-ricardo/output/snake.svg" alt="Snake animation" />
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
