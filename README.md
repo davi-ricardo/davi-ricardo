@@ -1,5 +1,5 @@
 ## 👋 Olá, meu nome é Davi Ricardo
-- 💻 Hoje trabalho com suporte N1 e N2, também produzindo algumas automações.
+- 💻 Hoje trabalho com suporte N1 e N2, também produzindo algumas automações em N8N e Typebot.
 - 🧑‍💻 Fazendo bacharelado em Ciência da Computação
 
 ---
