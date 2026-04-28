@@ -1,5 +1,6 @@
 ## 👋 Olá, meu nome é Davi Ricardo
 - 💻 Hoje trabalho com suporte N1 e N2, também produzindo algumas automações em N8N e Typebot.
+- 💻 Desenvolvo projetos open sources e focados em microserviços que rodam em Docker.
 - 🧑‍💻 Fazendo bacharelado em Ciência da Computação
 
 ---
@@ -9,26 +10,39 @@
 <div align="center">
 
 | GitHub Stats | Linguagens Mais Usadas | Streak |
-|--------------|-------------------------|--------|
+|--------------|------------------------|--------|
 | <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davi-ricardo&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/> | <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davi-ricardo&layout=compact&theme=radical"/> | <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=davi-ricardo&theme=radical"/> |
-</div>
 
-<div align=center>
-<img src="https://raw.githubusercontent.com/davi-ricardo/davi-ricardo/output/snake.svg" alt="Snake animation" />
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Davi-n8n" height="30" width="40" src="https://img.shields.io/badge/-n8n-FF6D5B?style=flat&logo=n8n&logoColor=white">
 </div>
 
 ---
 
-<div> 
-  <a href="https://www.instagram.com/davi.sem.d/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:davyqwe7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/davi-ricardo-36891619b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/davi-ricardo/davi-ricardo/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🧠 Tecnologias que uso
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n&logoColor=FF6D5B">
+</p>
+
+## 📫 Contato
+
+<div align="center">
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
