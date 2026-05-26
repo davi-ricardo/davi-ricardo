@@ -1,5 +1,5 @@
 ## 👋 Olá, meu nome é Davi Ricardo
-- 💻 Hoje trabalho com suporte N1, N2 e N3, também produzindo algumas automações em N8N e Typebot.
+- 💻 Hoje trabalho com suporte N2 e N3. Além de desenvolver projetos OpenSources focados em soluções criativas.
 - 💻 Desenvolvo projetos open sources e focados em microserviços que rodam em Docker.
 - 🧑‍💻 Fazendo bacharelado em Ciência da Computação
 
