@@ -1,0 +1,199 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="820"
+height="300"
+viewBox="0 0 820 300"
+role="img"
+aria-label="GitHub statistics for davi-ricardo">
+
+<defs>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#30363d"/>
+        <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+</defs>
+
+<rect
+    x="1"
+    y="1"
+    width="818"
+    height="298"
+    rx="14"
+    fill="#0d1117"
+    stroke="url(#border)"
+    stroke-width="2"
+/>
+
+<text
+    x="35"
+    y="48"
+    fill="#f0f6fc"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="24"
+    font-weight="700">
+    GitHub Overview
+</text>
+
+<text
+    x="35"
+    y="73"
+    fill="#8b949e"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="14">
+    @davi-ricardo
+</text>
+
+<line
+    x1="35"
+    y1="92"
+    x2="785"
+    y2="92"
+    stroke="#30363d"
+    stroke-width="1"
+/>
+
+<text
+    x="55"
+    y="135"
+    fill="#58a6ff"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="28"
+    font-weight="700">
+    112
+</text>
+
+<text
+    x="55"
+    y="157"
+    fill="#8b949e"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="13">
+    Commits
+</text>
+
+<text
+    x="205"
+    y="135"
+    fill="#f0f6fc"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="28"
+    font-weight="700">
+    9
+</text>
+
+<text
+    x="205"
+    y="157"
+    fill="#8b949e"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="13">
+    Repositories
+</text>
+
+<text
+    x="370"
+    y="135"
+    fill="#f2cc60"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="28"
+    font-weight="700">
+    0
+</text>
+
+<text
+    x="370"
+    y="157"
+    fill="#8b949e"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="13">
+    Stars
+</text>
+
+<text
+    x="510"
+    y="135"
+    fill="#a5d6ff"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="28"
+    font-weight="700">
+    0
+</text>
+
+<text
+    x="510"
+    y="157"
+    fill="#8b949e"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="13">
+    Followers
+</text>
+
+<text
+    x="55"
+    y="215"
+    fill="#f0f6fc"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="24"
+    font-weight="700">
+    0
+</text>
+
+<text
+    x="55"
+    y="236"
+    fill="#8b949e"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="13">
+    Issues
+</text>
+
+<text
+    x="205"
+    y="215"
+    fill="#f0f6fc"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="24"
+    font-weight="700">
+    0
+</text>
+
+<text
+    x="205"
+    y="236"
+    fill="#8b949e"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="13">
+    Pull Requests
+</text>
+
+<circle
+    cx="690"
+    cy="205"
+    r="34"
+    fill="#161b22"
+    stroke="#238636"
+    stroke-width="5"
+/>
+
+<text
+    x="690"
+    y="211"
+    text-anchor="middle"
+    fill="#3fb950"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="16"
+    font-weight="700">
+    ACTIVE
+</text>
+
+<text
+    x="690"
+    y="255"
+    text-anchor="middle"
+    fill="#8b949e"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="12">
+    GitHub Profile
+</text>
+
+</svg>
