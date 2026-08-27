@@ -4,7 +4,7 @@
 
 ### Infrastructure • Linux • DevOps • Automation
 
-**Técnico em Informática · Estudante de Ciência da Computação**
+**Analista de TI · Estudante de Ciência da Computação**
 
 <br>
 
@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-Sou **Técnico em Informática** e estudante de **Ciência da Computação**, com foco em infraestrutura, administração Linux, containers, Kubernetes, observabilidade e automação.
+Sou **Analista de TI** e estudante de **Ciência da Computação**, com foco em infraestrutura, administração Linux, containers, Kubernetes, observabilidade e automação.
 
 Meu trabalho combina **operação de ambientes reais com desenvolvimento de ferramentas próprias**, buscando transformar problemas de infraestrutura em soluções reproduzíveis, monitoráveis e automatizadas.
 
