@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/davi-ricardo-typing.gif" alt="Davi Ricardo" />
+# Davi Ricardo
 
 ### Infrastructure • Linux • DevOps • Automation
 
