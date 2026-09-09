@@ -1,6 +1,6 @@
 <div align="center">
 
-# Davi Ricardo
+<img src="./assets/davi-ricardo-typing.gif" alt="Davi Ricardo" />
 
 ### Infrastructure • Linux • DevOps • Automation
 
@@ -176,24 +176,26 @@ Este projeto representa meu ambiente principal de estudo e prática com Kubernet
 ### Infrastructure Flow
 
 <pre>
-                         ┌─────────────────────┐
-                         │     K3s Cluster     │
-                         │      Kubernetes     │
-                         └──────────┬──────────┘
-                                    │
-               ┌────────────────────┼────────────────────┐
-               │                    │                    │
-        ┌──────▼──────┐      ┌──────▼──────┐      ┌──────▼──────┐
-        │     GLPI    │      │   Grafana   │      │   Zabbix    │
-        │     ITSM    │      │Observability│      │  Monitoring │
-        └─────────────┘      └─────────────┘      └─────────────┘
-               │                    │                    │
-               └────────────────────┼────────────────────┘
-                                    │
-                             ┌──────▼──────┐
-                             │  RemoteOps  │
-                             │   Services  │
-                             └─────────────┘
+                         ┌─────────────────────────┐
+                         │       K3s Cluster       │
+                         │        Kubernetes       │
+                         └────────────┬────────────┘
+                                      │
+                ┌─────────────────────┼─────────────────────┐
+                │                     │                     │
+                ▼                     ▼                     ▼
+        ┌───────────────┐     ┌───────────────┐     ┌───────────────┐
+        │     GLPI      │     │    Grafana    │     │    Zabbix     │
+        │     ITSM      │     │ Observability │     │   Monitoring  │
+        └───────────────┘     └───────────────┘     └───────────────┘
+                │                     │                     │
+                └─────────────────────┼─────────────────────┘
+                                      │
+                                      ▼
+                         ┌─────────────────────────┐
+                         │       RemoteOps         │
+                         │    Remote Operations    │
+                         └─────────────────────────┘
 </pre>
 
 🔗 **Repository:** [k3s-cluster-infrastructure](https://github.com/davi-ricardo/k3s-cluster-infrastructure)
