@@ -35,6 +35,7 @@ Atualmente venho aprofundando meus conhecimentos em **Linux, Docker, Kubernetes/
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🖥️ Infrastructure
@@ -67,9 +68,11 @@ Atualmente venho aprofundando meus conhecimentos em **Linux, Docker, Kubernetes/
 - Ambientes containerizados
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📊 Observability
@@ -100,6 +103,7 @@ Atualmente venho aprofundando meus conhecimentos em **Linux, Docker, Kubernetes/
 - Git & GitHub
 
 </td>
+
 </tr>
 </table>
 
@@ -152,7 +156,7 @@ Atualmente venho aprofundando meus conhecimentos em **Linux, Docker, Kubernetes/
 
 **Kubernetes infrastructure laboratory focused on practical administration, deployment and observability.**
 
-Este projeto representa meu ambiente principal de estudo e prática com Kubernetes, utilizando **K3s** para executar e administrar aplicações reais em um cluster versionado.
+Este projeto representa meu ambiente principal de estudo e prática com Kubernetes, utilizando **K3s** para executar e administrar aplicações em um cluster versionado.
 
 ### Focus
 
@@ -173,31 +177,6 @@ Este projeto representa meu ambiente principal de estudo e prática com Kubernet
 - Portainer
 - Git versioning
 
-### Infrastructure Flow
-
-<pre>
-                         ┌─────────────────────────┐
-                         │       K3s Cluster       │
-                         │        Kubernetes       │
-                         └────────────┬────────────┘
-                                      │
-                ┌─────────────────────┼─────────────────────┐
-                │                     │                     │
-                ▼                     ▼                     ▼
-        ┌───────────────┐     ┌───────────────┐     ┌───────────────┐
-        │     GLPI      │     │    Grafana    │     │    Zabbix     │
-        │     ITSM      │     │ Observability │     │   Monitoring  │
-        └───────────────┘     └───────────────┘     └───────────────┘
-                │                     │                     │
-                └─────────────────────┼─────────────────────┘
-                                      │
-                                      ▼
-                         ┌─────────────────────────┐
-                         │       RemoteOps         │
-                         │    Remote Operations    │
-                         └─────────────────────────┘
-</pre>
-
 🔗 **Repository:** [k3s-cluster-infrastructure](https://github.com/davi-ricardo/k3s-cluster-infrastructure)
 
 ---
@@ -217,33 +196,6 @@ O projeto combina desenvolvimento de aplicações com infraestrutura de serviço
 ## 📊 Monitoring & Observability
 
 Ambiente de monitoramento baseado na integração entre **Zabbix, Grafana e GLPI**, conectado aos serviços e aplicações executados na infraestrutura.
-
-### Operational Flow
-
-<pre>
-┌─────────────┐
-│   Zabbix    │
-│  Detection  │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│   Grafana   │
-│Visualization│
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│    GLPI     │
-│     ITSM    │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│  Operations │
-│  & Support  │
-└─────────────┘
-</pre>
 
 ### Operational Model
 
@@ -278,21 +230,14 @@ Meu objetivo não é apenas fazer uma aplicação funcionar.
 
 Procuro construir ambientes que sejam:
 
-<pre>
-                     ┌───────────────────┐
-                     │    Application    │
-                     └─────────┬─────────┘
-                               │
-                     ┌─────────▼─────────┐
-                     │  Infrastructure   │
-                     └─────────┬─────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-       ┌─────▼─────┐     ┌─────▼─────┐     ┌─────▼─────┐
-       │ Automation │     │ Monitoring │     │ Versioning│
-       └───────────┘     └────────────┘     └───────────┘
-</pre>
+- **Reproducible**
+- **Observable**
+- **Automated**
+- **Versioned**
+- **Documented**
+- **Maintainable**
+- **Secure**
+- **Easy to troubleshoot**
 
 ### Principles
 
@@ -352,29 +297,9 @@ Procuro construir ambientes que sejam:
 
 # 🎯 Professional Direction
 
-Meu objetivo é evoluir profissionalmente na interseção entre:
+Minha trajetória de desenvolvimento profissional está direcionada para:
 
-<pre>
-Linux
-  │
-  ▼
-Infrastructure
-  │
-  ▼
-Containers
-  │
-  ▼
-Kubernetes
-  │
-  ▼
-Automation
-  │
-  ▼
-Observability
-  │
-  ▼
-DevOps
-</pre>
+**Linux → Infrastructure → Containers → Kubernetes → Automation → Observability → DevOps**
 
 Busco desenvolver uma carreira baseada em **infraestrutura, operações, automação e DevOps**, utilizando projetos reais como laboratório para transformar conhecimento teórico em experiência prática.
 
